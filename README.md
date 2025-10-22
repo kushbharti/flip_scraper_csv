@@ -36,14 +36,6 @@ It automatically collects information such as prices, ratings, offers, and speci
 
 <hr>
 
-<h2>📁 Project Structure</h2>
-<pre>
-flipkart_mobile_scraper/
-├── flipkart_scraper.py          # Main script for scraping and saving data
-├── Flipkart_Data.csv            # Output CSV file (auto-generated)
-├── requirements.txt             # Python dependencies
-└── README.md                    # Project documentation
-</pre>
 
 <h2>🚀 Installation</h2>
 
@@ -51,8 +43,7 @@ flipkart_mobile_scraper/
 
 <pre>
 # 1️⃣ Clone the repository
-git clone https://github.com/your-username/flipkart-mobile-scraper.git
-cd flipkart-mobile-scraper
+git clone https://github.com/your-username/flip_scraper_csv.git
 
 # 2️⃣ Create and activate a virtual environment
 python -m venv env
@@ -61,8 +52,6 @@ source env/bin/activate     # On Windows: env\Scripts\activate
 # 3️⃣ Install dependencies
 pip install requests beautifulsoup4 pandas pymongo lxml
 
-# 4️⃣ Run the scraper
-python flipkart_scraper.py
 </pre>
 
 <h2>🖥 Output Example</h2>
