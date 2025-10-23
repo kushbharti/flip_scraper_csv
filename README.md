@@ -36,13 +36,15 @@ It automatically collects information such as prices, ratings, offers, and speci
 
 <hr>
 
-<img width="1911" height="911" alt="Screenshot 2025-10-23 214457" src="https://github.com/user-attachments/assets/4ea2c0a2-a7c3-4623-ac50-799237b37e38" />
+<img width="1911" height="911" alt="Screenshot 2025-10-23 214457" src="https://github.com/user-attachments/assets/4ea2c0a2-a7c3-4623-ac50-799237b37e38" /> <br>
 
 <img width="1363" height="693" alt="Screenshot 2025-10-22 192802" src="https://github.com/user-attachments/assets/8422a9c5-2ed8-4327-bb23-97a3f2151b98" />
+<br>
 
 <img width="1311" height="638" alt="Screenshot 2025-10-23 214210" src="https://github.com/user-attachments/assets/2eff5e85-f801-40e9-8e0e-876006bec084" />
+<br>
 
-
+<hr>
 
 <h2>🚀 Installation</h2>
 
